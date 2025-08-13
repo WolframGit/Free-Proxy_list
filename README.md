@@ -8,7 +8,7 @@
 
 **Формат: ip:port [protocols]**
 
-**🇺🇸/🇬🇧ENG:We are collecting a database of all proxy servers that are operational and need your help!!!
+**🇺🇸/🇬🇧ENG: We are collecting a database of all proxy servers that are operational and need your help!!!
 Everyone who has submitted a pull request with a modified file in which additional proxies have been added - We thank you!
 (All pull requests will be approved by me personally)**
 
