@@ -7,10 +7,11 @@
 (Все pull requests будут одобрены лично мной)**
 
 **Формат: ip:port [protocols]**
+**P.s - pull request нужно выполнять на файл 'proxy_list'**
 
 **🇺🇸/🇬🇧ENG: We are collecting a database of all proxy servers that are operational and need your help!!!
 Everyone who has submitted a pull request with a modified file in which additional proxies have been added - We thank you!
 (All pull requests will be approved by me personally)**
 
 **Format: ip:port [protocols]**
-
+**P.s - pull request must be performed on the file 'proxy_list'**
